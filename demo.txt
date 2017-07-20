@@ -1,0 +1,5 @@
+#This is first commit 
+#Add new txt file
+#Write somewords to this file
+#eg. 
+Hello World 
