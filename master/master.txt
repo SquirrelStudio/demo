@@ -1,0 +1,6 @@
+Well!
+I create new floder and touch master.txt
+Next i will creat the same floder and touch same file in diffrent branch 
+in order to partice learing git 
+Do it 23th.July.2017
+Thanks 
