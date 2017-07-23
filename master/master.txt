@@ -4,3 +4,7 @@ Next i will creat the same floder and touch same file in diffrent branch
 in order to partice learing git 
 Do it 23th.July.2017
 Thanks 
+
+Well!
+I merge branch 'dev' and 'test' at 16:31 pm on 23th.July.17
+Write this info 
