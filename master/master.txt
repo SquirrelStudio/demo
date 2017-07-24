@@ -8,3 +8,4 @@ Thanks
 Well!
 I merge branch 'dev' and 'test' at 16:31 pm on 23th.July.17
 Write this info 
+Some thing wrong !
