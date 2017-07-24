@@ -2,6 +2,8 @@
 #Add new txt file
 #Write somewords to this file
 #eg. 
+On test branch
+----------------------------
 Hello Test 
 
 This is branch test 
@@ -11,3 +13,12 @@ This is second commit I will write some words to this file
 On this test branch
 
 Hello Test
+============================
+On dev branch
+----------------------------
+Hello Dev 
+On dev branch
+
+Write some words to this file 
+eg 
+On this dev branch i will do develop works 
