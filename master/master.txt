@@ -16,3 +16,5 @@ on master branch i will input some words into master.txt
 Write some words into master.txt by SquirrelWorkpace 
  
 By squirrelworkpace
+
+Now i will test on merge master branch on 25th.sep.17
