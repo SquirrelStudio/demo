@@ -18,3 +18,6 @@ Write some words into master.txt by SquirrelWorkpace
 By squirrelworkpace
 
 Now i will test on merge master branch on 25th.sep.17
+
+
+SquirrelStudio write some thing in this file on 25.sep.17
